@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cd64d03.css",
+    "main.js": "/static/js/main.90b214d2.js",
+    "static/js/787.5580a4da.chunk.js": "/static/js/787.5580a4da.chunk.js",
+    "static/media/DC Logo Trans.png": "/static/media/DC Logo Trans.8f2c95f3ad9b5f655daa.png",
+    "index.html": "/index.html",
+    "main.5cd64d03.css.map": "/static/css/main.5cd64d03.css.map",
+    "main.90b214d2.js.map": "/static/js/main.90b214d2.js.map",
+    "787.5580a4da.chunk.js.map": "/static/js/787.5580a4da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd64d03.css",
+    "static/js/main.90b214d2.js"
+  ]
+}
